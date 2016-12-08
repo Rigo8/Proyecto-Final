@@ -23,4 +23,16 @@
     * Donde recibe un parametro que en caso de ser igual a "si" le dira que tome la ruta que lo deje mas cerca de su destino.
     * En caso de responder "no" se le pedira que consiga el dinero suficiente para el autobus y posteriormente le estara preguntando si ya cuenta con el dinero hasta que responda que "si".
 ![](https://github.com/Rigo8/Imagenes/blob/master/Captura4.PNG)    
+
+
+![bus](https://github.com/Rigo8/Imagenes/blob/master/credencial.PNG)
+
+![bus](https://github.com/Rigo8/Imagenes/blob/master/Nocredencial.PNG)
+
+* Anterior
+[Desarrollo-Uber](https://github.com/Rigo8/Proyecto-Final/blob/master/Uber.md)
+
+* Siguiente
+[Conclusion](https://github.com/Rigo8/Proyecto-Final/blob/master/Conclusion.md)
+
     :white_circle: :red_circle: Rigo
