@@ -29,4 +29,12 @@ Posteriormente le preguntara si tiene su licencia, donde debera responder si o n
 
 ![auto](https://github.com/Rigo8/Imagenes/blob/master/Captura2.PNG)
 
+![auto](https://github.com/Rigo8/Imagenes/blob/master/auto.PNG)
+
+* Anterior
+[Desarrollo](https://github.com/Rigo8/Proyecto-Final/blob/master/Desarrollo.md)
+
+* Siguiente
+[Desarrollo-Uber](https://github.com/Rigo8/Proyecto-Final/blob/master/Uber.md)
+
 :white_circle: :red_circle: Rigo
